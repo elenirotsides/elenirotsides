@@ -4,7 +4,7 @@ Helloooo! My name is Eleni (rhymes with 'a penny') and I am an undergraduate Sof
 
 I am currently:
 
--working on a personal website (stay tuned!)
+-working on a snazzy personal website (stay tuned!)
 
 -attempting to contribute to an open source project called OpenTogetherTube, you can view the project here: https://github.com/dyc3/opentogethertube
 
