@@ -6,6 +6,6 @@ I am currently:
 
 -working on a snazzy personal website (stay tuned!)
 
--attempting to contribute to an open source project called OpenTogetherTube, you can view the project here: https://github.com/dyc3/opentogethertube
+-contributing to an open source project called OpenTogetherTube, pinned below!
 
 Check out my most recent project (see: Gyro, pinned below) that I was apart of for a Web Programming course I just took at school!
