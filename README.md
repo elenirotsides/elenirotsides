@@ -9,3 +9,7 @@ I am currently:
 ✨ contributing to an open source project called OpenTogetherTube, pinned below! (My most active project that I'm working on at the moment)
 
 Check out my most recent project (see: Gyro, pinned below) that I was apart of for a Web Programming course I just took at school!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&show_icons=true)  
