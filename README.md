@@ -10,6 +10,8 @@ I am currently:
 
 Check out my most recent project (see: Gyro, pinned below) that I was apart of for a Web Programming course I just took at school!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&theme=dracula&show_icons=true)  
+
+(These really cool graphics are brought to you by: https://github.com/anuraghazra/github-readme-stats)
