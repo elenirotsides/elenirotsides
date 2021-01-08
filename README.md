@@ -4,9 +4,11 @@ Helloooo! My name is Eleni (rhymes with 'a penny') and I am an undergraduate Sof
 
 I am currently:
 
-✨ working on a snazzy personal website (update: put this on hold for a bit - stay tuned!)
+✨ Working on a snazzy personal website (update: put this on hold for a bit - stay tuned!)
 
-✨ contributing to an open source project called OpenTogetherTube, pinned below! (My most active project that I'm working on at the moment)
+✨ Contributing to an open source project called OpenTogetherTube, pinned below! (My most active project that I'm working on at the moment)
+
+✨ Writing a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continuily improved with the latest technologies and techniques I'm learning. 
 
 Check out my most recent project (see: Gyro, pinned below) that I was apart of for a Web Programming course I just took at school!
 
