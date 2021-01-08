@@ -14,6 +14,6 @@ Check out my most recent project (see: Gyro, pinned below) that I was apart of f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&theme=dracula&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&count_private=true&theme=dracula&show_icons=true)  
 
 (These really cool graphics are brought to you by: https://github.com/anuraghazra/github-readme-stats)
