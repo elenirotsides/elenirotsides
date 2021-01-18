@@ -6,7 +6,9 @@ I am currently:
 
 ✨ Working on a snazzy personal website (update: put this on hold for a bit - stay tuned!)
 
-✨ Contributing to an open source project called OpenTogetherTube, pinned below! (My most active project that I'm working on at the moment)
+✨ Contributing to an open source project called OpenTogetherTube, pinned below!
+
+✨ Dabbling in the wonderfully fun realm of building Discord bots! I'm having SO much fun being creative!
 
 ✨ Writing a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continually improved with the latest technologies and techniques I'm learning. 
 
