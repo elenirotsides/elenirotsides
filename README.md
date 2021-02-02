@@ -12,7 +12,7 @@ I am currently:
 
 ✨ Writing a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continually improved with the latest technologies and techniques I'm learning. 
 
-Check out my most recent project (see: Gyro, pinned below) that I was apart of for a Web Programming course I just took at school!
+Check out Gyro (pinned below) that I was apart of for a Web Programming course I took at school last year!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
