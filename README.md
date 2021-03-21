@@ -1,6 +1,7 @@
 <!--- ![Eleni's Logo](https://github.com/elenirotsides/My-Personal-Website/blob/dev/src/public/ER_logo.png?raw=true) --->
 
-Helloooo! Welcome to my software portfolio :blush:  My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engineering co-op student in my 4th of 5th year. I've recently discovered that I love Web Programming! 
+Helloooo! Welcome to my software portfolio :blush:  
+My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engineering co-op student in my 4th of 5th year. I've recently discovered that I love Web Programming! 
 
 I am currently:
 
