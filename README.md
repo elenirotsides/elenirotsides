@@ -15,7 +15,7 @@ I am currently:
 
 Check out Gyro (pinned below) that I was apart of for a Web Programming course I took at school last year!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&langs_count=5&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&langs_count=6&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&count_private=true&theme=dracula&show_icons=true)  
 
