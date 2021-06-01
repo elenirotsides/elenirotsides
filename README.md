@@ -1,6 +1,9 @@
 <!--- ![Eleni's Logo](https://github.com/elenirotsides/My-Personal-Website/blob/dev/src/public/ER_logo.png?raw=true) --->
 
 Helloooo! Welcome to my software portfolio :blush:  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felenirotsides%2Fhit-counter&count_bg=%23000000&title_bg=%23DD00D4&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engineering co-op student in my senior. I've recently discovered that I love Web Programming! 
 
 ❗ I am currently:
