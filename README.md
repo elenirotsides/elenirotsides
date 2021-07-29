@@ -29,28 +29,10 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 - Brock (aka dyc3/discord-pokemon-battles), pinned below
 
 ✨ Developed a workflow management tool heavily inspired by Trello, called Gyro, pinned below!
-- JavaScript
-- HTML, CSS, Ajax,
-- Bootstrap
-- Handlebars.js, Express.js, Node.js
-- MongoDB
 
 ✨ Developed a video game wiki website, with an added social element. It is in a repository called Team-418, pinned below!
-- React, JavaScript, JSX
-- Interacted with the IGDB API for video game data
-- Firebase Authentication
-- MongoDB
-- Redis
-- ImageMagick
-- Docker
-- Material UI, Bootstrap
 
 ✨ Developed an Exchange Marketplace website for students (think of an e-bay, but for students) called Exchange4Students, pinned below!
-- Written in Python
-- Used Flask
-- HTML, CSS, JQuery
-- MongoDB, written in Python
-- Bootstrap
 
 ✨ Written a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continually improved with the latest technologies and techniques I'm learning. 
 - The program is pretty much complete, but I think I'm going to refactor it to use Vue.js for kicks and giggles
