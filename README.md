@@ -10,7 +10,7 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 <!---✨ Working on a snazzy personal website (update: put this on hold for a bit - stay tuned!)--->
 
-✨ Working at FreeWheel (Comcast) doing a Software Engineering internship! I'm super excited to learn and contribute this summer!
+✨ Just concluded a super awesome internship with FreeWheel (Comcast) working as a Software Engineer intern!
 
 ✨ Seeking a Full Time job in Software Engineering starting anytime between June 2022 - August 2022. Please reach out to me on LinkedIn (linked to the right under my name) if you'd like to discuss any opportunities.
 
