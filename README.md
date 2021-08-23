@@ -8,18 +8,16 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ❗ I am currently:
 
-<!---✨ Working on a snazzy personal website (update: put this on hold for a bit - stay tuned!)--->
-
-✨ Just concluded a super awesome internship with FreeWheel (Comcast) working as a Software Engineer intern!
+✨ Starting my last year of undergrad! I may be slow to respond to PR's/Discussions depending on how busy I get, but I will get to them I promise! I will make an effort to check periodically!
 
 
 ❗ I hope to:
 
-✨ Continue contributing to an open source project called OpenTogetherTube, pinned below!
-- I did a bunch of work on this at the end of 2020! This was my first time contributing to an open source project and I immediately fell in love. I would love to continue work on this project in my free time, and hopefully find more projects to work on in the open source space, as well.
-
 ✨ Continue work on Trivia Bot, pinned below!
 - There are a bunch of features my group members and I didn't have time to implement (this was originally for a class project) but we'd like to continue work on it and make it even better.
+
+✨ Continue contributing to an open source project called OpenTogetherTube, pinned below!
+- I did a bunch of work on this at the end of 2020! This was my first time contributing to an open source project and I immediately fell in love. I would love to continue work on this project in my free time, and hopefully find more projects to work on in the open source space, as well.
 
 ❗ I have:
 
@@ -33,8 +31,8 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ✨ Developed an Exchange Marketplace website for students (think of an e-bay, but for students) called Exchange4Students, pinned below!
 
-✨ Written a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continually improved with the latest technologies and techniques I'm learning. 
-- The program is pretty much complete, but I think I'm going to refactor it to use Vue.js for kicks and giggles
+<!--✨ Written a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continually improved with the latest technologies and techniques I'm learning. 
+- The program is pretty much complete, but I think I'm going to refactor it to use Vue.js for kicks and giggles-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
