@@ -10,22 +10,22 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ✨ Starting my last year of undergrad! I may be slow to respond to PR's/Discussions depending on how busy I get, but I will get to them I promise! I will make an effort to check periodically!
 
+✨ Working on [Peer](https://github.com/Peer-Stevens), my senior design project! Peer is a cross-platform mobile naviagation app for the blind and visually impaired.
+
 
 ❗ I hope to:
 
 ✨ Continue work on Trivia Bot, pinned below!
-- There are a bunch of features my group members and I didn't have time to implement (this was originally for a class project) but we'd like to continue work on it and make it even better.
 
 ✨ Continue contributing to an open source project called OpenTogetherTube, pinned below!
-- I did a bunch of work on this at the end of 2020! This was my first time contributing to an open source project and I immediately fell in love. I would love to continue work on this project in my free time, and hopefully find more projects to work on in the open source space, as well.
 
 ❗ I have:
 
 ✨ Dabbled in the wonderfully fun realm of building Discord bots! I'm having SO much fun being creative!
 - Trivia Bot, pinned below
-- Brock (aka dyc3/discord-pokemon-battles), pinned below
+- Brock (aka dyc3/discord-pokemon-battles)
 
-✨ Developed a workflow management tool heavily inspired by Trello, called Gyro, pinned below!
+✨ Developed a workflow management tool heavily inspired by Trello, called Gyro!
 
 ✨ Developed a video game wiki website, with an added social element. It is in a repository called Team-418, pinned below!
 
