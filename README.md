@@ -14,7 +14,7 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ✨ Maintaining Trivia Bot, my pride and joy! Contributions are always welcomed, and also **PARTICIPATING IN HACKTOBERFEST!!!**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elenirotsides&repo=Trivia-Bot&theme=dracula)](https://github.com/elenirotsides/Trivia-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elenirotsides&repo=Trivia-Bot&show_owner=true&theme=dracula)](https://github.com/elenirotsides/Trivia-Bot)
 
 ## ❗ I have:
 
