@@ -4,26 +4,23 @@ Helloooo! Welcome to my software portfolio :blush:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felenirotsides%2Fhit-counter&count_bg=%23000000&title_bg=%23DD00D4&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engineering co-op student in my senior year. I've recently discovered that I love Web Programming! 
+My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engineering co-op student in my senior year. I've recently discovered that I love Web Programming!
 
-❗ I am currently:
+## ❗ I am currently:
 
-✨ Starting my last year of undergrad! I may be slow to respond to PR's/Discussions depending on how busy I get, but I will get to them I promise! I will make an effort to check periodically!
+✨ In my last year of undergrad! I may be slow to respond to PR's/Discussions depending on how busy I get, but I will get to them, I promise! I make an effort to check my notifications several times a week!
 
 ✨ Working on [Peer](https://github.com/Peer-Stevens), my senior design project! Peer is a cross-platform mobile naviagation app for the blind and visually impaired.
 
+✨ Maintaining Trivia Bot, pinned below! **PARTICIPATING IN HACKTOBERFEST!!!**
 
-❗ I hope to:
-
-✨ Continue work on Trivia Bot, pinned below!
-
-✨ Continue contributing to an open source project called OpenTogetherTube, pinned below!
-
-❗ I have:
+## ❗ I have:
 
 ✨ Dabbled in the wonderfully fun realm of building Discord bots! I'm having SO much fun being creative!
-- Trivia Bot, pinned below
+- Trivia Bot, pinned below **PARTICIPATING IN HACKTOBERFEST!!!**
 - Brock (aka dyc3/discord-pokemon-battles)
+
+✨ Contributed to an open source project called OpenTogetherTube, pinned below!
 
 ✨ Developed a workflow management tool heavily inspired by Trello, called Gyro!
 
