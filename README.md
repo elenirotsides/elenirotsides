@@ -12,7 +12,7 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ✨ Working on [Peer](https://github.com/Peer-Stevens), my senior design project! Peer is a cross-platform mobile naviagation app for the blind and visually impaired.
 
-✨ Maintaining Trivia Bot, my pride and joy! Contributions are always welcomed!
+✨ Maintaining Trivia Bot, my pride and joy! Contributions are always welcomed! (Please note, a massive update will be coming this winter after I've recovered from the stress the semester has kindly bestowed upon me. v13 of the Discord API was released a while ago, and I intend on updating Trivia Bot to utilize this update!)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elenirotsides&repo=Trivia-Bot&show_owner=true&theme=dracula)](https://github.com/elenirotsides/Trivia-Bot)
 
