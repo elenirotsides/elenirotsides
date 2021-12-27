@@ -4,7 +4,7 @@ Helloooo! Welcome to my software portfolio :blush:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felenirotsides%2Fhit-counter&count_bg=%23000000&title_bg=%23DD00D4&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engineering co-op student in my senior year. I'm a Discord Bot developer on the side, for fun!
+My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engineering co-op student in my senior year. I'm a Discord bot developer of a verified bot, for fun!
 
 ## ❗ I am currently:
 
@@ -12,7 +12,7 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ✨ Working on [Peer](https://github.com/Peer-Stevens), my senior design project! Peer is a cross-platform mobile naviagation app for the blind and visually impaired.
 
-✨ Maintaining Trivia Bot, my pride and joy! Contributions are always welcomed! (Please note, a massive update will be coming this winter after I've recovered from the stress the semester has kindly bestowed upon me. v13 of the Discord API was released a while ago, and I intend on updating Trivia Bot to utilize this update!)
+✨ Maintaining Trivia Bot, my pride and joy! Trivia Bot is a verified Discord bot and contributions are always welcomed! (Please note, a massive update will be coming this winter after I've recovered from the stress the semester has kindly bestowed upon me. v13 of the Discord API was released a while ago, and I intend on updating Trivia Bot to utilize this update!)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elenirotsides&repo=Trivia-Bot&show_owner=true&theme=dracula)](https://github.com/elenirotsides/Trivia-Bot)
 
