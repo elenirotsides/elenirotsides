@@ -22,15 +22,17 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ✨ Built Discord Bots!
 - Trivia Bot
-- Brock (aka dyc3/discord-pokemon-battles)
+- Brock (aka `dyc3/discord-pokemon-battles`)
 
-✨ Contributed to an open source project called OpenTogetherTube, pinned below!
+✨ Contributed to an open source project called `OpenTogetherTube`, pinned below!
 
-✨ Developed a workflow management tool heavily inspired by Trello, called Gyro!
+✨ Designed and developed a website that served as a hub of information in favor of supporting the Referendum to build a new high school which was voted on by Hoboken residents on January 25, 2022. In an archived repository called `morethanahighschool`, pinned below!
 
-✨ Developed a video game wiki website, with an added social element. It is in a repository called Team-418, pinned below!
+✨ Developed a workflow management tool heavily inspired by Trello, called `Gyro`!
 
-✨ Developed an Exchange Marketplace website for students (think of an e-bay, but for students) called Exchange4Students, pinned below!
+✨ Developed a video game wiki website, with an added social element. It is in a repository called `Team-418`, pinned below!
+
+✨ Developed an Exchange Marketplace website for students (think of an e-bay, but for students) called `Exchange4Students`!
 
 <!--✨ Written a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continually improved with the latest technologies and techniques I'm learning. 
 - The program is pretty much complete, but I think I'm going to refactor it to use Vue.js for kicks and giggles-->
