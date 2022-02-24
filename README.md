@@ -10,7 +10,7 @@ My name is Eleni (rhymes with 'a penny') and I am an undergraduate Software Engi
 
 ✨ In my last year of undergrad! I may be slow to respond to PR's/Discussions depending on how busy I get, but I will get to them, I promise! I make an effort to check my notifications several times a week!
 
-✨ Working on [Peer](https://github.com/Peer-Stevens), my senior design project! Peer is a cross-platform mobile naviagation app for the blind and visually impaired.
+✨ Working on [Peer](https://github.com/Peer-Stevens), my senior design project! Peer is a cross-platform mobile naviagation app for the blind and visually impaired. (Written in TypeScript and not reflected in my overall language usage stats below!)
 
 ✨ Maintaining Trivia Bot, my pride and joy! Trivia Bot is a verified Discord bot and contributions are always welcomed! (Please note, a massive update will be coming this winter after I've recovered from the stress the semester has kindly bestowed upon me. v13 of `discord.js` was released a while ago, and I intend on updating Trivia Bot to utilize this update!)
 
