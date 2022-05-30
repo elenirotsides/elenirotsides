@@ -8,7 +8,7 @@ My name is Eleni (rhymes with 'a penny') and I am a professional Software Engine
 
 ## ❗ I am currently:
 
-✨ Maintaining Trivia Bot, my pride and joy! Trivia Bot is a verified Discord bot and contributions are always welcomed! (Please note, a massive update will be coming this summer after I've recovered from the stress my last year of undergrad has kindly bestowed upon me. v13 of `discord.js` was released a while ago, and I intend on updating Trivia Bot to utilize this update!)
+✨ Maintaining Trivia Bot, my pride and joy! Trivia Bot is a verified Discord bot and contributions are always welcomed!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elenirotsides&repo=Trivia-Bot&show_owner=true&theme=dracula)](https://github.com/elenirotsides/Trivia-Bot) <a href="https://top.gg/bot/831974682709721099">
 <img src="https://top.gg/api/widget/831974682709721099.svg">
