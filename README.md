@@ -6,6 +6,8 @@ Helloooo! Welcome to my software portfolio :blush:
 
 My name is Eleni (rhymes with 'a penny') and I am a professional Software Engineer with expertise in Web Programming. I'm also a Discord bot developer of a verified bot, for fun!
 
+At work, I write a lot of Kotlin and Swift where I do app development - both of which are not reflected in my overall language stats as this is my personal GitHub account.
+
 ## ❗ I am currently:
 
 ✨ Maintaining Trivia Bot, my pride and joy! Trivia Bot is a verified Discord bot and contributions are always welcomed!
