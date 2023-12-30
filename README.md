@@ -6,7 +6,7 @@ Helloooo! Welcome to my software portfolio :blush:
 
 My name is Eleni (rhymes with 'a penny') and I am a professional Software Engineer with expertise in Web Programming. I'm also a Discord bot developer of a verified bot, for fun!
 
-At work, I write a lot of Kotlin and Swift where I do app development - both of which are not reflected in my overall language stats as this is my personal GitHub account.
+At work, I wrote a lot of Kotlin and Swift where I did app development for a year - both of which are not reflected in my overall language stats as this is my personal GitHub account. I now write tons of JavaScript at work - I'm a jack-of-all-trades at the moment.
 
 ## ❗ My skills
 
@@ -42,6 +42,6 @@ At work, I write a lot of Kotlin and Swift where I do app development - both of 
 <!--✨ Written a Reverse Phone Lookup program that is intended for personal use! I will make my repo public once I am confident in its functionality. This will constantly be a work in progress, aimed to be continually improved with the latest technologies and techniques I'm learning. 
 - The program is pretty much complete, but I think I'm going to refactor it to use Vue.js for kicks and giggles-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&langs_count=8&layout=compact&hide=css,scss,makefile&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&count_private=true&theme=dracula&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenirotsides&langs_count=8&layout=compact&hide=css,scss,makefile&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenirotsides&count_private=true&theme=dracula&show_icons=true) -->
 
-(These really cool graphics are brought to you by: https://github.com/anuraghazra/github-readme-stats)
+(Cool graphics are brought to you by: https://github.com/anuraghazra/github-readme-stats)
