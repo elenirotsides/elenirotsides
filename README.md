@@ -6,7 +6,7 @@ Helloooo! Welcome to my software portfolio :blush:
 
 My name is Eleni (rhymes with 'a penny') and I am a professional Software Engineer with expertise in Web Programming. I'm also a Discord bot developer of a verified bot, for fun!
 
-At work, I wrote a lot of Kotlin and Swift where I did app development for a year - both of which are not reflected in my overall language stats as this is my personal GitHub account. I now write tons of JavaScript at work - I'm a jack-of-all-trades at the moment.
+At work, I've written a ton of Kotlin, Swift and JavaScript (Kotlin and Swift are not reflected in my overall language stats below since this is my personal GitHub account). At the moment, I'm a jack-of-all-trades at work.
 
 ## ❗ My skills
 
@@ -16,9 +16,10 @@ At work, I wrote a lot of Kotlin and Swift where I did app development for a yea
     
 ## ❗ I am currently:
 
-✨ Maintaining Trivia Bot, my pride and joy! Trivia Bot is a verified Discord bot and contributions are always welcomed!
+✨ Attempting to do a full rewrite of my pride and joy, Trivia Bot, using Kotlin! Please note that it is **currently offline** and the repo is marked as a public archive for now.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elenirotsides&repo=Trivia-Bot&show_owner=true&theme=dracula)](https://github.com/elenirotsides/Trivia-Bot) <a href="https://top.gg/bot/831974682709721099"> <img src="https://top.gg/api/widget/831974682709721099.svg">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elenirotsides&repo=Trivia-Bot&show_owner=true&theme=dracula)](https://github.com/elenirotsides/Trivia-Bot) <a href="https://top.gg/bot/831974682709721099"> 
+<!--<img src="https://top.gg/api/widget/831974682709721099.svg"> -->
 </a>
 
 ## ❗ I have:
